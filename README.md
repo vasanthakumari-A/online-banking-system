@@ -1,0 +1,2 @@
+# online-banking-system
+The aim project is to show the working of banking account system and cover the basic function of the bank account management  system to develop a project for solving financial applications of a customer in banking environment in order nurture the needs of an end user by providing various ways to perform banking task the main feature includes accessible to all customer who have valid user if password balance inquiry online fund transfer etc 
